@@ -25,7 +25,7 @@ export default function Hero() {
       sx={{
         minHeight: '100vh',
         width: '100%',
-        backgroundImage: 'url(/Rhea-Mewadhari-Website/imgs/hero-bg.jpg)',
+        backgroundImage: 'url(/Rhea-Mewadhari-Website/imgs/bg-img4.jpg)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundAttachment: 'fixed',
