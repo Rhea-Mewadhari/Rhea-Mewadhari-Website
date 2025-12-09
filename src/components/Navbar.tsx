@@ -79,7 +79,7 @@ export default function Navbar() {
 
   const headerContent = (
     <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', mb: 4 }}>
-      <Avatar src="/imgs/me.png" sx={{ width: 80, height: 80, mb: 1.5 }} />
+      <Avatar src="/Rhea-Mewadhari-Website/imgs/me.png" sx={{ width: 80, height: 80, mb: 1.5 }} />
       <Typography variant="h6" color="white" sx={{ fontWeight: 'bold', textAlign: 'center' }}>
         Rhea Mewadhari
       </Typography>

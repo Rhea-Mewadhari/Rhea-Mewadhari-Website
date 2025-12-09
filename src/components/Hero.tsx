@@ -1,4 +1,4 @@
-import { Box, Typography, Paper } from '@mui/material';
+import { Box, Container, Typography } from '@mui/material';
 import Typewriter from 'typewriter-effect';
 import { useState } from 'react';
 
@@ -25,7 +25,7 @@ export default function Hero() {
       sx={{
         minHeight: '100vh',
         width: '100%',
-        backgroundImage: 'url(public/imgs/bg-img4.jpg)',
+        backgroundImage: 'url(/Rhea-Mewadhari-Website/imgs/hero-bg.jpg)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundAttachment: 'fixed',
