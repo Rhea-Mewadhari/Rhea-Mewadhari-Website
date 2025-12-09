@@ -1,5 +1,4 @@
 import { Box, Container, Typography, Paper } from '@mui/material';
-import WorkIcon from '@mui/icons-material/Work';
 import { useState } from 'react';
 
 const experienceData = [
