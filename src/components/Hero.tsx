@@ -1,4 +1,4 @@
-import { Box, Container, Typography } from '@mui/material';
+import { Box, Paper, Typography } from '@mui/material';
 import Typewriter from 'typewriter-effect';
 import { useState } from 'react';
 
